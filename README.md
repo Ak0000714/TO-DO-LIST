@@ -57,7 +57,7 @@ How to Set It Up
 
 Clone the repository using:
 
-git clone https://github.com/your-username/todo-list.git
+git clone https://ak0000714.github.io/TO-DO-LIST/
 
 
 
